@@ -1,4 +1,4 @@
-**Bank Account Simulator**
+# **BANK ACCOUNT SIMULATOR**
 
 ## About the Project
 
