@@ -39,7 +39,7 @@ git clone YOUR_GITHUB_REPOSITORY_URL
 - python bank_account.py
 
 ## Sample Output
-text
+
 --- Bank Account Simulator ---
 1. Check Balance
 2. Deposit
